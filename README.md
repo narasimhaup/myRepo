@@ -1,2 +1,3 @@
 # myRepo
-Sample Repository
+
+Sample Repository - Lets explore more and practice on Github
